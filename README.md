@@ -1,6 +1,3 @@
-# CloudGaming-AntiAFK
-Um script Python eficiente para prevenir o desligamento automático de máquinas virtuais (VMs) em serviços de cloud gaming e computação remota.
-Here’s a concise and attractive **`README.md`** for your GitHub repository in Portuguese, styled using **Markdown** (GitHub does not support CSS in the actual `README.md`, but we can use Markdown to format it nicely).
 
 ```markdown
 # 🌐 Cloud ANTI-AFK Script
