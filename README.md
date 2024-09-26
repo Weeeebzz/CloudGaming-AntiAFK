@@ -49,12 +49,6 @@ Se preferir trabalhar com o código-fonte, siga as instruções abaixo:
 
 ---
 
-## 💡 Como Funciona
-
-O **Cloud ANTI-AFK Script** simula atividade no sistema, mantendo sua máquina virtual (VM) ativa, e evitando que ela seja desligada por inatividade. Ele realiza ações automáticas como movimentos do mouse e digitação, garantindo que a VM continue operacional.
-
----
-
 <p align="center">
   Feito com ❤️ por <a href="[https://github.com/seuusuario](https://github.com/Weeeebzz)">Webinho</a>
 </p>
