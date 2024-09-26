@@ -29,24 +29,6 @@ Para baixar o executável diretamente, siga estes passos:
 2. Baixe a versão mais recente do arquivo `.exe`.
 3. Execute o arquivo baixado para iniciar o **Cloud ANTI-AFK Script**.
 
-### Baixar o Código-Fonte
-
-Se preferir trabalhar com o código-fonte, siga as instruções abaixo:
-
-1. Clone este repositório usando o seguinte comando:
-   ```bash
-   git clone https://github.com/seuusuario/cloud-anti-afk.git
-   ```
-2. Certifique-se de ter o **Python 3.x** instalado no seu sistema.
-3. Instale as dependências necessárias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Execute o script:
-   ```bash
-   python afk_preventer.py
-   ```
-
 ---
 
 <p align="center">
