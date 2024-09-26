@@ -62,6 +62,6 @@ Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENS
 ---
 
 <p align="center">
-  Feito com ❤️ por <a href="https://github.com/seuusuario">Seu Usuário</a>
+  Feito com ❤️ por <a href="[https://github.com/seuusuario](https://github.com/Weeeebzz)">Webinho</a>
 </p>
-```
+
