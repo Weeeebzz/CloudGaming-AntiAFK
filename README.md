@@ -1,4 +1,4 @@
-```markdown
+
 # 🌐 Cloud ANTI-AFK Script
 
 > **Um script Python eficiente para prevenir o desligamento automático de máquinas virtuais (VMs) em serviços de cloud gaming e computação remota.**
@@ -18,8 +18,6 @@ O **Cloud ANTI-AFK Script** é uma solução simples e poderosa desenvolvida em 
 - Seleção de área de atuação através da "bounding box".
 - Hash de aplicação randomizado para dificultar a detecção.
 - Integração com bandeja do sistema.
-
----
 
 ## 📥 Download e Instalação
 
