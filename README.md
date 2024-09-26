@@ -55,12 +55,6 @@ O **Cloud ANTI-AFK Script** simula atividade no sistema, mantendo sua máquina v
 
 ---
 
-## 🔗 Licença
-
-Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENSE](https://github.com/seuusuario/cloud-anti-afk/blob/main/LICENSE) para mais informações.
-
----
-
 <p align="center">
   Feito com ❤️ por <a href="[https://github.com/seuusuario](https://github.com/Weeeebzz)">Webinho</a>
 </p>
