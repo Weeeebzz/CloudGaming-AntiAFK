@@ -25,7 +25,7 @@ O **Cloud ANTI-AFK Script** é uma solução simples e poderosa desenvolvida em 
 
 Para baixar o executável diretamente, siga estes passos:
 
-1. Vá até a seção de **[Releases]([https://github.com/seuusuario/cloud-anti-afk/releases](https://github.com/Weeeebzz/CloudGaming-AntiAFK/releases/tag/Release))** no GitHub.
+1. Vá até a seção de **[Releases]([https://github.com/Weeeebzz/CloudGaming-AntiAFK/releases/tag/Release)** no GitHub.
 2. Baixe a versão mais recente do arquivo `.exe`.
 3. Execute o arquivo baixado para iniciar o **Cloud ANTI-AFK Script**.
 
